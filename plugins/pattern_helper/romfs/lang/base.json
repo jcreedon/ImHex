@@ -1,0 +1,7 @@
+[
+    "hex.builtin.menu.edit.copy_as_pattern",
+    "hex.builtin.menu.edit.copy_as_pattern.struct",
+    "hex.builtin.menu.edit.copy_as_pattern.array_u8",
+    "hex.builtin.menu.edit.copy_as_pattern.array_u16",
+    "hex.builtin.menu.edit.copy_as_pattern.array_u32"
+]

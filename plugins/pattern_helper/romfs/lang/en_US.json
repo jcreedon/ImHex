@@ -1,0 +1,12 @@
+{
+    "code": "en-US",
+    "country": "United States",
+    "language": "English",
+    "translations": {
+        "hex.builtin.menu.edit.copy_as_pattern": "Copy as pattern...",
+        "hex.builtin.menu.edit.copy_as_pattern.struct": "Struct",
+        "hex.builtin.menu.edit.copy_as_pattern.array_u8": "u8 Array",
+        "hex.builtin.menu.edit.copy_as_pattern.array_u16": "u16 Array",
+        "hex.builtin.menu.edit.copy_as_pattern.array_u32": "u32 Array"
+    }
+}

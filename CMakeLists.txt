@@ -36,6 +36,7 @@ verifyCompiler()
 set(PLUGINS
     builtin
     windows
+    pattern_helper
 )
 
 # Add various defines
